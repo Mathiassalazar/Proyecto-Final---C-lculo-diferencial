@@ -1,2 +1,2 @@
-# Proyecto-Final---C-lculo-diferencial
-Grupo: Mathias Salazar, Iván Carlosama, Samuel Terán, Diana Ocampo
+# Proyecto-Final---Calculo-diferencial
+Grupo: Mathias Salazar, Iván Carlosama, Samuel Teran, Diana Ocampo
